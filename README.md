@@ -4,12 +4,13 @@
 
 🔭 Working on my personal projects.<br/>
 🌱 Learning English and more Technologies.<br/>
-🎓 Studying my last year in the ![University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+🎓 Studying my last year in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 5+ years of experience as a developer.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Deepin-282C34?logo=deepin" alt="Deepin logo" title="Deepin" height="20" />][knowledge_anchor]
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
  
-[![MacKey's github stats](https://github-readme-stats.vercel.app/api?username=MacKey-255&show_icons=true&hide_border=true)](https://github.com/dereknguyen269)
+[![MacKey's github stats](https://github-readme-stats.vercel.app/api?username=MacKey-255&show_icons=true&hide_border=true)](https://github.com/MacKey-255)
 
 ## 🛠 Languages & Technologies
 
@@ -53,7 +54,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" />][knowledge_anchor]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacKey-255&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacKey-255&layout=compact)](https://github.com/MacKey-255)
 
 <a name="learning-now"></a>
 
