@@ -4,8 +4,8 @@
 
 🔭 Working on my personal projects.<br/>
 🌱 Learning English and more Technologies.<br/>
-🎓 Studying my last year in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 5+ years of experience as a developer.<br/>
+🎓 Computer Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 6+ years of experience as a developer.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Deepin-282C34?logo=deepin" alt="Deepin logo" title="Deepin" height="20" />][knowledge_anchor]
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
@@ -33,6 +33,8 @@
 <br/>
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092d1f" alt="Django logo" title="Django" height="25" />][knowledge_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" alt="Flask logo" title="Flask" height="25" />][knowledge_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Flask-282C34?logo=flask" alt="Flask logo" title="Flask" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue.JS-282C34?logo=vue.js&logoColor=4aa984" alt="Vue logo" title="Vue" height="25" />][knowledge_anchor]
@@ -53,6 +55,8 @@
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" />][knowledge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][knowledge_anchor]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacKey-255&layout=compact)](https://github.com/MacKey-255)
 
@@ -62,9 +66,7 @@
 
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Electron-282C34?logo=Electron" alt="Electron logo" title="Electron" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 
 Creating desktop/mobile/web Applications with Web Technologies
 
