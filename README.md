@@ -1,7 +1,8 @@
 # Hi 👋, I'm MacKey-255 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 [<img src="https://img.shields.io/github/stars/MacKey-255?affiliations=OWNER&color=%23ffe411&label=GitHub%20Stars&logo=github&logoColor=%23fffFF&style=flat" alt="Stars" title="Stars" />][knowledge_anchor]
-[<img src="https://visitor-badge.glitch.me/badge?page_id=MacKey-255" alt="Visitors" title="Visitor" />][knowledge_anchor]
+[<img src="https://img.shields.io/github/followers/MacKey-255?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
+[<img src="https://visitor-badge.glitch.me/badge?page_id=MacKey-255&right_color=%23009688" alt="Visitors" title="Visitor" />][knowledge_anchor]
 
 #### I am a Full Stack Web Developer living at Havana City, Cuba 🇨🇺
 
