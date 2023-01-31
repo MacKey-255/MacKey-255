@@ -8,10 +8,9 @@
 
 🔭 Working on my personal projects.<br/>
 🌱 Learning English and more Technologies.<br/>
-🎓 Computer Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 6+ years of experience as a developer.<br/>
+🎓 Informatics Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 7+ years of experience as a developer.<br/>
 💻 Using Operative System
-[<img src="https://img.shields.io/badge/Deepin-282C34?logo=deepin" alt="Deepin logo" title="Deepin" height="20" />][knowledge_anchor]
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
  
 [![MacKey's github stats](https://github-readme-stats.vercel.app/api?username=MacKey-255&show_icons=true&hide_border=true)](https://github.com/MacKey-255)
@@ -86,7 +85,7 @@ Creating desktop/mobile/web Applications with Web Technologies
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
-## 🧑‍💻 Actual Projects in progress
+## 🧑‍💻 Actual Personal Projects in progress
 
 - ![KeyMac Project](https://github.com/MacKey-255/KeyMac)
 
