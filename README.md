@@ -4,10 +4,10 @@
 [<img src="https://img.shields.io/github/followers/MacKey-255?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
 [<img src="https://visitor-badge.glitch.me/badge?page_id=MacKey-255&right_color=%23009688" alt="Visitors" title="Visitor" />][knowledge_anchor]
 
-#### I am a Full Stack Web Developer living at Havana City, Cuba 🇨🇺
+#### I am a Full Stack Web Developer from Havana City, Cuba 🇨🇺
 
-🔭 Working on my personal projects.<br/>
-🌱 Learning English and more Technologies.<br/>
+🔭 Working in the tech industry.<br/>
+🌱 Improving my English and learning more Technologies.<br/>
 🎓 Informatics Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
 💼 7+ years of experience as a developer.<br/>
 💻 Using Operative System
@@ -67,6 +67,8 @@
 
 ## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
@@ -78,8 +80,6 @@ Creating desktop/mobile/web Applications with Web Technologies
 [<img src="https://img.shields.io/badge/Go-282C34?logo=go" alt="Go logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
