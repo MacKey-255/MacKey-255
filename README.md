@@ -96,4 +96,4 @@
 [learning_now_anchor]: #-languages--technologies
 [learning_next_anchor]: #--what-i-am-currently-learning--improving-on
 
-#### SALu2s
+#### SAlu2s
