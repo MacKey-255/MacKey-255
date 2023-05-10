@@ -9,7 +9,7 @@
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
 🎓 Informatics Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 7+ years of experience as a developer.<br/>
+💼 +7 years of experience as a developer.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
  
@@ -23,7 +23,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=9b4f96" alt="C# logo" title="C#" height="25" />][knowledge_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ed8b00" alt="Java logo" title="Java" height="25" />][knowledge_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ed8b00" alt="Java logo" title="Java" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][knowledge_anchor]
 &nbsp;
@@ -51,11 +51,13 @@
 <br/>
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][knowledge_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Android logo" title="Android" height="25" />][knowledge_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=d60090" alt="GraphQL logo" title="GraphQL" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />][knowledge_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][knowledge_anchor]
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" />][knowledge_anchor]
 &nbsp;
@@ -67,27 +69,28 @@
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 
-Creating desktop/mobile/web Applications with Web Technologies
+* Learning distributed systems architecture.
+* Learning advanced SEO (Search Engine Optimization).
+* Creating desktop/mobile applications with Web Technologies.
 
 ## 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Go-282C34?logo=go" alt="Go logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][learning_next_anchor]
 
-## 🧑‍💻 Actual Personal Projects in progress
-
-- ![KeyMac Project](https://github.com/MacKey-255/KeyMac)
 
 [knowledge_anchor]: #mackey-255-freelancerhttpsimgshieldsiobadgefreelancer-29b2festylefor-the-badgelogofreelancerlogocolorwhite
 [learning_now_anchor]: #-languages--technologies
