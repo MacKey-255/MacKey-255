@@ -8,8 +8,9 @@
 
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
-🎓 Informatics Science Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
 💼 +7 years of experience as a developer.<br/>
+🌎 I love to travel and see the world.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
  
@@ -75,7 +76,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 
-* Learning distributed systems architecture.
 * Learning advanced SEO (Search Engine Optimization).
 * Creating desktop/mobile applications with Web Technologies.
 
