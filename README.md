@@ -91,6 +91,13 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][learning_next_anchor]
 
+## Support Me
+
+If you want to support me, you can buy me a coffee here:
+
+<a href="https://www.buymeacoffee.com/mackey"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+Donations will be appreciated ❤️!
 
 [knowledge_anchor]: #mackey-255-freelancerhttpsimgshieldsiobadgefreelancer-29b2festylefor-the-badgelogofreelancerlogocolorwhite
 [learning_now_anchor]: #-languages--technologies
