@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/github/followers/MacKey-255?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
 [<img src="https://visitor-badge.glitch.me/badge?page_id=MacKey-255&right_color=%23009688" alt="Visitors" title="Visitor" />][knowledge_anchor]
 
-#### I am a Full Stack Web Developer from Havana City, Cuba 🇨🇺
+#### I am a Full Stack Web Developer from Havana City, Cuba 🇨🇺 living in the Canary Islands, Spain 🇪🇸
 
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
