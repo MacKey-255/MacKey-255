@@ -9,7 +9,7 @@
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
 🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 +7 years of experience as a developer.<br/>
+💼 +5 years of experience as a developer.<br/>
 🌎 I love to travel and see the world.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
