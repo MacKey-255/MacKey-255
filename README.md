@@ -1,8 +1,7 @@
-# Hi 👋, I'm MacKey-255 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+# Hi 👋, I'm MacKey-255
 
 [<img src="https://img.shields.io/github/stars/MacKey-255?affiliations=OWNER&color=%23ffe411&label=GitHub%20Stars&logo=github&logoColor=%23fffFF&style=flat" alt="Stars" title="Stars" />][knowledge_anchor]
 [<img src="https://img.shields.io/github/followers/MacKey-255?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
-[<img src="https://visitor-badge.glitch.me/badge?page_id=MacKey-255&right_color=%23009688" alt="Visitors" title="Visitor" />][knowledge_anchor]
 
 #### I am a Full Stack Web Developer from Havana City, Cuba 🇨🇺 living in the Canary Islands, Spain 🇪🇸
 
@@ -72,24 +71,20 @@
 
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt logo" title="Nuxt" height="25" />][learning_now_anchor]
 
 * Learning advanced SEO (Search Engine Optimization).
-* Creating desktop/mobile applications with Web Technologies.
+* Learning about cloud services: AWS, GCP, Azure.
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Go-282C34?logo=go" alt="Go logo" title="Go" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][learning_next_anchor]
 
 ## Support Me
 
