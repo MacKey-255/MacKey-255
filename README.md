@@ -8,7 +8,7 @@
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
 🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 +5 years of experience as a developer.<br/>
+💼 +8 years of experience as a developer.<br/>
 🌎 I love to travel and see the world.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
@@ -21,9 +21,11 @@
 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />][knowledge_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=9b4f96" alt="C# logo" title="C#" height="25" />][knowledge_anchor]
+[<img src="https://img.shields.io/badge/C%23-282C34?logo=dotnet&logoColor=9b4f96" alt="C# logo" title="C#" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ed8b00" alt="Java logo" title="Java" height="25" />][knowledge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][knowledge_anchor]
 &nbsp;
@@ -55,6 +57,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=d60090" alt="GraphQL logo" title="GraphQL" height="25" />][knowledge_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Kafka-282C34?logo=apache-kafka&logoColor=2496ED" alt="Kafka logo" title="Kafka" height="25" />][knowledge_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />][knowledge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][knowledge_anchor]
@@ -63,18 +67,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][knowledge_anchor]
 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacKey-255&layout=compact)](https://github.com/MacKey-255)
 
 <a name="learning-now"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt logo" title="Nuxt" height="25" />][learning_now_anchor]
-
-* Learning advanced SEO (Search Engine Optimization).
 * Learning about cloud services: AWS, GCP, Azure.
+* Learning about Kubernetes and self-hosted cloud.
 
 ## 👾  What I am interested in learning at some point
 
