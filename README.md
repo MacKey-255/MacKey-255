@@ -5,10 +5,10 @@
 
 #### I am a Full Stack Web Developer from Havana City, Cuba 🇨🇺 living in the Canary Islands, Spain 🇪🇸
 
+🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 +9 years of experience as a developer.<br/>
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
-🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 +8 years of experience as a developer.<br/>
 🌎 I love to travel and see the world.<br/>
 💻 Using Operative System
 [<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />][knowledge_anchor]
@@ -74,11 +74,14 @@
 
 ## 📖  What I am currently learning / improving on
 
+* Learning about Grafana and observability systems.
 * Learning about cloud services: AWS, GCP, Azure.
 * Learning about Kubernetes and self-hosted cloud.
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=white" alt="Rust logo" title="Rust" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
